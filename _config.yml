@@ -1,5 +1,7 @@
 title: Mingqi Yuan's Homepage
-description: Personal Academic Page.
+#description: Personal Academic Page.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+github:
+  repository_url: https://github.com/yuanmingqi

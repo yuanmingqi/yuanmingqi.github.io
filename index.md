@@ -2,122 +2,81 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Biography
+<p align="justify"> 
+<img src="assets/images/self.jpg" height="180" style="float: left;margin-right:20px">
+I'm a Ph.D. student of Department of Computing, Faculty of Engineering, 
+The Hong Kong Polytechnic University, whose supervisors are <a href="https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=zh-CN" target="_blank">Prof. Wenjun Zeng (Fellow, IEEE)</a>
+and <a href="https://www4.comp.polyu.edu.hk/~bo2li/" target="_blank">Prof. Bo Li</a>. In 2022, I received the M.Phil. degree from The Chinese University of Hong Kong, 
+under the supervision of <a href="https://mypage.cuhk.edu.cn/academics/simonpun/member/director_simonpun.html" target="_blank">Prof. Man-on Pun</a>.
+Before that, I received the B.S. degree from Minzu University of China in 2020, under the supervision of <a href="https://lxy.muc.edu.cn/info/1037/1206.htm" target="_blank">Prof. Jing Li</a>.
+In addition, I had worked at <a href="https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw" target="_blank">Tencent Robotics X Lab</a> and <a href="https://www.jd.com/" target="_blank">JD.com, Inc.</a> as a research intern in 2022 and 2019, respectively.
+</p>
 
-[Link to another page](./another-page.html).
+My research interests are _reinforcement learning, robotics and computer vision._
 
-There should be whitespace between paragraphs.
+# Education
+* **Doctor of Philosophy**, The Hong Kong Polytechnic University (HKPU), 2022-present
+* **Master of Philosophy**, The Chinese University of Hong Kong (CUHK), 2022-2022
+* **Bachelor of Science**, Minzu University of China (MUC), 2016-2020
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Publications
+### Journal Paper
+* Rényi State Entropy for Accelerating Exploration in Reinforcement Learning, <font color=red>Mingqi Yuan</font>, Man-on Pun, Dong Wang, accepted by _IEEE Transactions on Artificial Intelligence (TAI)_
+* Fairness-Oriented User Scheduling for Bursty Downlink Transmission Using Multi-Agent Reinforcement Learning, <font color=red>Mingqi Yuan</font>, Qi Cao, Man-on Pun,
+  Yi Chen, accepted by _APSIPA Transactions on Signal and Information Processing (TSIP)_
 
-# Header 1
+### Conference Paper
+* Exploring Beyond-Demonstrator via Meta Learning-Based Reward Extrapolation, <font color=red>Mingqi Yuan</font>, Man-on Pun, submitted to _2022 IEEE Symposium Series On Computational Intelligence (SSCI)_, Singapore 
+* Multi-Agent Reinforcement Learning-Based Fairness-Aware Scheduling for Bursty Traffic, <font color=red>Mingqi Yuan</font>, Qi Cao, Man-on Pun, Yi Chen, accepted by _2021 IEEE Global Communications Conference (GLOBECOM)_, Madrid, Spain
+* Transformer Empowered CSI Feedback for Massive MIMO Systems, Yang Xu, <font color=red>Mingqi Yuan</font>, Man-on Pun, accepted by _2021 30th IEEE Wireless and Optical
+  Communications Conference (WOCC)_, Taipei, China
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Preprints
+Intrinsically-Motivated Reinforcement Learning: A Brief Introduction, <font color=red>Mingqi Yuan</font>, arXiv preprint arXiv:2203.02298
 
-## Header 2
+# Experiences
+* **Research Intern**, Tencent Robotics X Lab, 03/2022-07/2022
+* **Machine Vision Algorithm Engineer**, JD.com, Inc., 07/2019-12/2019
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Honours
+### Scholarship
+* HKPU Research Postgraduate Scholarship
+* CUHK-Shenzhen Research Postgraduate Scholarship
+* Scholarship of Foundation of CUHK-Shenzhen
 
-### Header 3
+### Competition
+* Outstanding Bachelor Thesis
+* **Runner-up** of Hackathon Innovation Competition of Jingdong Digits
+* **Champion** of China Guiyang Unicom Big Data Application & Innovation Competition
+* **National First Prize** of Chinese Collegiate Computing Competition
+* **Beijing Second Prize** of China College Students “Internet +” Innovation and Entrepreneurship Competition
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Certificate
+Huawei Certified ICT Professional-AI-EI Developer
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Funding 
+* National Key Research and Development Program of China (6G Research)
+* National Entrepreneurship Training Program for College Students
+* National Innovation Training Program for College Students
 
-#### Header 4
+# Activities
+### Reviewer
+* 2021 IEEE International Conference on Communications (ICC2021)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Presentation
+* IEEE Invited Talk (YOLOV4: THE COMBINATION OF ACCURACY AND SPEED)
+* Lecturer of Shenzhen Artificial Intelligence Industry Association (AIIA)
 
-##### Header 5
+### Teaching Assistant
+* MAT4001: Numerical Analysis
+* MAT2040: Linear Algebra
+* EIE2050: Digital Logic and Systems Professional
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Contact
+* **E-mail**: friedrichyuan199908277@gmail.com
+* **Address**: Mong Man Wai Building, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<br />
+<br />
+<br />

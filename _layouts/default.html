@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-
+    <link rel=icon type=image/png
+          href=/assets/images/icon.png>
 {% seo %}
   </head>
 
@@ -17,14 +18,27 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+<!--        <h2>{{ site.description | default: site.github.project_tagline }}</h2>-->
+        <h2>I think, therefore I am.</h2>
 
         <section id="downloads">
           {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="https://scholar.google.com.hk/citations?user=N1L9_QUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:none">
+            <img src="https://img.shields.io/badge/Google-Scholar-%233a86ff" height="20px">
+          </a>
+          &nbsp
+          <a href="{{ site.github.repository_url }}" target="_blank" style="text-decoration:none">
+            <img src="https://img.shields.io/badge/My-GitHub-brightgreen" height="20px">
+          </a>
+          &nbsp
+          <a href="https://yuanmingqi.blog.csdn.net/" target="_blank" style="text-decoration:none">
+            <img src="https://img.shields.io/badge/My-Blog-%23fb5607" height="20px">
+          </a>
+
+<!--            <a href="https://scholar.google.com.hk/citations?user=N1L9_QUAAAAJ&hl=zh-CN" class="btn btn-googleschloar" target="_blank"><span class="icon"></span>Google Scholar</a>-->
+<!--            <a href="https://yuanmingqi.blog.csdn.net/" class="btn" target="_blank">My Blog</a>-->
+<!--          {% endif %}-->
+<!--          <a href="{{ site.github.repository_url }}" class="btn btn-github" target="_blank"><span class="icon"></span>My GitHub</a>-->
         </section>
       </div>
     </header>
