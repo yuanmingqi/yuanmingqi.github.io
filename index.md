@@ -17,7 +17,7 @@ My research interests are _reinforcement learning, robotics and computer vision.
 
 # Education
 * **Doctor of Philosophy**, The Hong Kong Polytechnic University (HKPU), 2022-present
-* **Master of Philosophy**, The Chinese University of Hong Kong (CUHK), 2022-2022
+* **Master of Philosophy**, The Chinese University of Hong Kong (CUHK), 2020-2022
 * **Bachelor of Science**, Minzu University of China (MUC), 2016-2020
 
 # Publications
