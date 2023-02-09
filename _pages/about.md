@@ -1,25 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # I think, therefore I am.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Ph.D. student of Department of Computing, Faculty of Engineering, The Hong Kong Polytechnic University (HKPU), under the supervision of [Prof. Wenjun Zeng (Fellow, IEEE)](https://scholar.google.com/citations?user=_cUfvYQAAAAJ&hl=zh-CN) and [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). In 2022, I received the M.Phil. degree from The Chinese University of Hong Kong (CUHK), under the supervision of [Prof. Man-on Pun](https://mypage.cuhk.edu.cn/academics/simonpun/member/director_simonpun.html). Before that, I received the B.S. degree from Minzu University of China (MUC) in 2020, under the supervision of [Prof. Jing Li.](https://lxy.muc.edu.cn/info/1037/1206.htm)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition, I had worked at [Tencent Robotics X Lab](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) and [JD.com, Inc.](https://www.jd.com/) as a research intern in 2022 and 2019, respectively. My research interests are **reinforcement learning, robotics and computer vision**.

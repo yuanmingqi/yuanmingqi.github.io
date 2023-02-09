@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuanmingqi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yuanmingqi/rl-exploration-baselines
+  - DLR-RM/stable-baselines3
+  - ikostrikov/pytorch-a2c-ppo-acktr-gail
+  - yuanmingqi/TibetanMNIST
