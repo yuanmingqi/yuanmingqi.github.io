@@ -8,8 +8,9 @@ nav_order: 5
 ---
 
 ### Reviewer
-- 2021 IEEE International Conference on Communications (ICC)
+- 2023 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)
 - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+- 2021 IEEE International Conference on Communications (ICC)
 
 ### Presentation
 - IEEE Invited Talk (YOLOV4: THE COMBINATION OF ACCURACY AND SPEED)
