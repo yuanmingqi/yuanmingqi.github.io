@@ -9,6 +9,7 @@ nav_order: 5
 
 ### Scholarship
 - HKPU Research Postgraduate Scholarship
+- IEEE GLOBECOM 2021 Travel Grant
 - CUHK-Shenzhen Research Postgraduate Scholarship
 - Scholarship of Foundation of CUHK-Shenzhen
 
