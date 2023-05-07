@@ -250,8 +250,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Mingqi]
-  first_name: [Yuan]
+  last_name: [Yuan]
+  first_name: [Mingqi]
 
   style: apa
   locale: en
