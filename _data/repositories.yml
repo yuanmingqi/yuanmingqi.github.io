@@ -1,0 +1,9 @@
+github_users:
+  - yuanmingqi
+
+github_repos:
+  - RLE-Foundation/rllte
+  - yuanmingqi/rl-exploration-baselines
+  - DLR-RM/stable-baselines3
+  - ikostrikov/pytorch-a2c-ppo-acktr-gail
+  - yuanmingqi/TibetanMNIST
